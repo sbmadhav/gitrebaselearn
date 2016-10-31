@@ -1,1 +1,1 @@
-just test
+just test - why not some real test ?
